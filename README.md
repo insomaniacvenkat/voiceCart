@@ -13,8 +13,7 @@ Here's what you can do with this project:
 ## Preview
 
 ### Preview
-![My Image](https://github.com/insomaniacvenkat/voiceCart/assets/80594141/34322aa7-d62e-4373-8406-f795af82a596)
-
+<img src="https://github.com/insomaniacvenkat/voiceCart/assets/80594141/34322aa7-d62e-4373-8406-f795af82a596" width="200">
 
 ### Video
 
