@@ -18,4 +18,4 @@ Here's what you can do with this project:
 
 ### Video
 
-[![My Video](https://github.com/insomaniacvenkat/voiceCart/blob/master/food%20cart.mp4)]
+![My Video](https://github.com/insomaniacvenkat/voiceCart/blob/master/food%20cart.mp4)
